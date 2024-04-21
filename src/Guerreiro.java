@@ -39,7 +39,7 @@ public class Guerreiro extends Personagem {
     @Override
     public String toString() {
        
-        return super.toString() + "\nQuantidade de Força: " + força + "\nNação pertencente" + naçao;
+        return super.toString() + "\nQuantidade de Força: " + força + "\nNação pertencente: " + naçao;
     }
 
  
