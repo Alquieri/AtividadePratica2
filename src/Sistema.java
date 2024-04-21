@@ -33,7 +33,10 @@ public class Sistema {
                 break;
             case 0:
                 break;
-           
+             default:
+                System.out.println("Opção invalida");
+             break;
+     
 
         }
  
